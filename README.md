@@ -1,4 +1,4 @@
-# untitled2
+# GALLERINO (A Gallery App for self painted paintings)
 
 A new Flutter project.
 
